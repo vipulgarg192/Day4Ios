@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B7C19FE22D012E8006367EF /* MenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7C19FD22D012E8006367EF /* MenuTableViewController.swift */; };
 		9BCF4C5622CD601B00F54B6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCF4C5522CD601B00F54B6A /* AppDelegate.swift */; };
 		9BCF4C5822CD601B00F54B6A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCF4C5722CD601B00F54B6A /* ViewController.swift */; };
 		9BCF4C5B22CD601B00F54B6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BCF4C5922CD601B00F54B6A /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B7C19FD22D012E8006367EF /* MenuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewController.swift; sourceTree = "<group>"; };
 		9BCF4C5222CD601B00F54B6A /* Day4Ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Day4Ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BCF4C5522CD601B00F54B6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BCF4C5722CD601B00F54B6A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				9BCF4C5E22CD601C00F54B6A /* LaunchScreen.storyboard */,
 				9BCF4C6122CD601C00F54B6A /* Info.plist */,
 				9BCF4C6722CD871C00F54B6A /* TableViewController.swift */,
+				9B7C19FD22D012E8006367EF /* MenuTableViewController.swift */,
 			);
 			path = Day4Ios;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B7C19FE22D012E8006367EF /* MenuTableViewController.swift in Sources */,
 				9BCF4C5822CD601B00F54B6A /* ViewController.swift in Sources */,
 				9BCF4C6822CD871C00F54B6A /* TableViewController.swift in Sources */,
 				9BCF4C5622CD601B00F54B6A /* AppDelegate.swift in Sources */,
